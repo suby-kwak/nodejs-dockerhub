@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: suby-kwak/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: suby123/nodejs-github-action:${{ env.CURRENT_TIME }}
